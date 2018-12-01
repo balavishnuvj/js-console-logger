@@ -2,3 +2,6 @@ src
 tsconfig.json
 tslint.json
 .prettierrc
+.DS_Store
+.vscode/
+coverage

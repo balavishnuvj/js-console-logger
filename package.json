@@ -1,8 +1,8 @@
 {
-  "name": "console-logger",
-  "version": "0.1.0",
-  "description": "to be written later",
-  "main": "index.js",
+  "name": "js-console-logger",
+  "version": "0.1.1",
+  "description": "A configurable, lightweight, opinionated JavaScript logger.",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
@@ -16,7 +16,11 @@
   },
   "keywords": [
     "console",
-    "log"
+    "log",
+    "logger",
+    "js logger",
+    "redux logger",
+    "logging"
   ],
   "author": "Balavishnu V J",
   "license": "MIT",
