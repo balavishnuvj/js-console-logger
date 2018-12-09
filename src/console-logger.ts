@@ -21,11 +21,11 @@ const loggerConfig: ILoggerConfig = {
 const loggerInfo: ILoggerInfo = {
   debug: {
     levelCode: 2,
-    levelTagColor: 'green',
+    levelTagColor: 'teal',
   },
   error: {
     levelCode: 5,
-    levelTagColor: 'red',
+    levelTagColor: 'crimson',
   },
   info: {
     levelCode: 3,
@@ -33,11 +33,11 @@ const loggerInfo: ILoggerInfo = {
   },
   trace: {
     levelCode: 1,
-    levelTagColor: 'yellow',
+    levelTagColor: 'tan',
   },
   warn: {
     levelCode: 4,
-    levelTagColor: 'orange',
+    levelTagColor: 'darkorange',
   },
 };
 
