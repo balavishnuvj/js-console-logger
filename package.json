@@ -1,6 +1,6 @@
 {
   "name": "js-console-logger",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A configurable, lightweight, opinionated JavaScript logger.",
   "main": "lib/index.js",
   "scripts": {
@@ -12,22 +12,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/balavishnuvj/console-logger.git"
+    "url": "git+https://github.com/balavishnuvj/js-console-logger.git"
   },
   "keywords": [
+    "js",
     "console",
+    "console-log",
     "log",
+    "logging",
     "logger",
-    "js logger",
-    "redux logger",
-    "logging"
+    "js-logger",
+    "redux-logger"
   ],
   "author": "Balavishnu V J",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/balavishnuvj/console-logger/issues"
+    "url": "https://github.com/balavishnuvj/js-console-logger/issues"
   },
-  "homepage": "https://github.com/balavishnuvj/console-logger#readme",
+  "homepage": "https://github.com/balavishnuvj/js-console-logger#readme",
   "devDependencies": {
     "@types/jest": "^23.3.10",
     "jest": "^23.6.0",

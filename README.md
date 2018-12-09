@@ -14,6 +14,8 @@ Defined log levels are trace, debug, info, warn and error.
 ```
 ## Examples
 Usage is very similar to `console` object.
+
+NOTE: consoleLevel is set to `trace`.
 ```js
     logger.trace('Network', 'API is not reposding', { url: 'www.google.com', ua: 'bot' });
     logger.debug('Network', 'API is not reposding', { url: 'www.google.com', ua: 'bot' });
@@ -22,6 +24,7 @@ Usage is very similar to `console` object.
     logger.error('Network', 'API is not reposding', { url: 'www.google.com', ua: 'bot' });
 ```
 
+![demo screenshot](https://github.com/balavishnuvj/js-console-logger/blob/master/assets/screenshot_1.png)
 
 ## Configure example
 Default configuration is good enough to start. But you can configure few options
